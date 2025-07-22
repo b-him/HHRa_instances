@@ -1,4 +1,5 @@
-# HHRa_instances
+# city logistic instances for combined delivery
+
 This dataset contains routing instances for a small urban area (~1 km²) located in Hamburg Rahlstedt, 
  intended for multi-modal vehicle routing problems with different transport types.
 
