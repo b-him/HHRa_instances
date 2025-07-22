@@ -3,7 +3,7 @@ This dataset contains routing instances for a small urban area (~1 km²) located
  intended for multi-modal vehicle routing problems with different transport types.
 
 Each instance varies in the number of customers (from 5 to 200), and consistently includes 2 satellites. For each customer configuration, there are 10 distinct instances. The dataset supports different vehicle types — van (v), bike (b), robot (r), and drone = Euclidean (d) — and provides corresponding distance (in meters) and duration (in seconds) matrices. All distances and durations, except for drone, are computed using the OSRM API based on OpenStreetMap data.
-© OpenStreetMap contributors. Data available under the Open Database License (ODbL).
+[© OpenStreetMap contributors. Data available under the Open Database License (ODbL).]
 
 ### File Naming Convention
 
