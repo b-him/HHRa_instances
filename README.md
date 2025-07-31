@@ -27,3 +27,7 @@ Matrix entries represent travel times or distances between nodes for the specifi
 **Example**:
 HHRa_50_2_03_v_dur.csv
 → 50 customers, 2 satellites, instance 3, vehicle type van, duration matrix.
+
+
+
+bike_stations.csv contains the initial satellite assignments where bikes are stationed at the beginning of each scenario that involves them.
